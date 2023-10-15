@@ -57,7 +57,7 @@ Simply install [spicetify-marketplace](https://github.com/spicetify/spicetify-ma
 
 ```powershell
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
-iex "& { $(iwr -useb 'https://raw.githubusercontent.com/nimsandu/spicetify-bloom/main/install/PowerShell/Bloom.ps1') }"
+iex "& { $(iwr -useb 'https://github.com/K3NOXOFFICIAL/Bloom/blob/main/install/PowerShell/Bloom.ps1') }"
 ```
 
 #### Linux/macOS (Bash)
